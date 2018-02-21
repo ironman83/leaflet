@@ -1,0 +1,19 @@
+.title {
+  font-size: 12px;
+  color: green;
+}
+  
+.city_box{
+  width: 430px
+  height:430px;
+  margin: 0 auto;
+  display: flex;
+}
+  
+img{
+}
+
+.money_box{
+  width: 400px
+  height:200px;
+}
